@@ -1,0 +1,53 @@
+.trico-2 {
+    font-family: 'Cabin', sans-serif;
+}
+
+.trico-2 {
+    font-family: 'Lobster', cursive;
+}
+
+#header {
+    font-family: 'Cabin', sans-serif;
+}
+
+.carousel-indicators {
+    bottom: -60px;
+}
+
+.carousel-indicators li {
+    border-radius: 50%; 
+    width: 0.8em;
+    height: 0.8em;
+    background-color: #000000;
+}
+
+#pagina2 {
+    font-family: 'Cabin', sans-serif;
+    font-size: 20px;
+}
+
+#seccion3 .h3 {
+    font-size: 23px;
+    text-align: left;
+    font-family: 'Cabin', sans-serif;
+}
+
+#seccion4 {
+    text-align: center;
+    background-color: #DC3545;
+    color: #ffffff;
+}
+
+.tricot-3{
+    font-size: 30px;
+}
+
+.trico-4 {
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+}
+
+.trico-5 {
+    font-family: 'Lobster', cursive;
+    font-size: 37px;
+}
